@@ -1,0 +1,5 @@
+{
+  "name": "CourseWeaver",
+  "description": "An AI-powered tool to convert raw course notes or slide content into well-structured, pedagogical study guides in Markdown format. It features a side-by-side editor and preview, and allows direct saving/committing to a GitHub repository.",
+  "requestFramePermissions": []
+}
